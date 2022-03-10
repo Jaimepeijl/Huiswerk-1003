@@ -35,7 +35,18 @@ public class AnotherAnimalMain {
 
     Alles staat hier in het Nederlands beschreven. Schrijf je klassen-, variabele en methodenamen in het Engels.
 
-     */
+////           - animals :
+//                        move (zooAnimals = 0,50 , pets = 0,25)
+//////                    makeSound
+//////                    sleep
+//////                    eat
+//            - zooAnimals : Name, Name cage, sex, lastFeedingDay, CountryOfOrigin
+//                      Lion: + amountChildren
+//                      Tiger: + amountStripes
+//                      Wolf: + packName
+//             - pets : name, nameOwner, favoriteFoodBrand, sex, breed
+//                      dog:
+//                      cat: + indoorOrOutdoor.
 
     /*
     UITBREIDING
